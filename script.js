@@ -80,10 +80,10 @@ const LEVELS = [
       <p>(가로줄 3개)</p>
     `,
     answer_b64: "MjI=", // 22
-    next: "22",
+    next: "32",
   },
   {
-    slug: "22",
+    slug: "32",
     riddle: `
       <p>오래오래 같이 놀아요~</p>
       <p><strong>끝 🎉</strong></p>
